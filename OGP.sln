@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGP", "ClassLibrary1\OGP.csproj", "{BA9AB7E4-95BE-4A0B-85A5-45D183F57291}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGP", "OGP\OGP.csproj", "{BA9AB7E4-95BE-4A0B-85A5-45D183F57291}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGP.Tests", "OGP.Tests\OGP.Tests.csproj", "{89B8220A-DBD4-40D3-8795-4661041C9170}"
 EndProject
