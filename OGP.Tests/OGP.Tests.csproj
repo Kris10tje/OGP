@@ -69,7 +69,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\OGP.csproj">
+    <ProjectReference Include="..\OGP\OGP.csproj">
       <Project>{ba9ab7e4-95be-4a0b-85a5-45d183f57291}</Project>
       <Name>OGP</Name>
     </ProjectReference>
